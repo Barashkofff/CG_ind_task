@@ -1,0 +1,16 @@
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.csproj.GenerateResource.cache
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.AssemblyInfoInputs.cache
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.AssemblyInfo.cs
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.csproj.CoreCompileInputs.cache
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.QuickHullForm.resources
+D:\C++ labs\QuickHull\bin\Debug\net8.0-windows\QuickHull.exe
+D:\C++ labs\QuickHull\bin\Debug\net8.0-windows\QuickHull.deps.json
+D:\C++ labs\QuickHull\bin\Debug\net8.0-windows\QuickHull.runtimeconfig.json
+D:\C++ labs\QuickHull\bin\Debug\net8.0-windows\QuickHull.dll
+D:\C++ labs\QuickHull\bin\Debug\net8.0-windows\QuickHull.pdb
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.dll
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\refint\QuickHull.dll
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.pdb
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\QuickHull.genruntimeconfig.cache
+D:\C++ labs\QuickHull\obj\Debug\net8.0-windows\ref\QuickHull.dll

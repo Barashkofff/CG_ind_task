@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B labs\\QuickHull\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:vector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\fastbitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:fastbitmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|d:\\c\u002B\u002B labs\\quickhull\\polygon2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:polygon2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|D:\\C\u002B\u002B labs\\QuickHull\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F87EE8F0-5BB8-437B-9F43-6AFA6C9FB30E}|QuickHull.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:50:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FastBitmap.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\FastBitmap.cs",
+              "RelativeDocumentMoniker": "FastBitmap.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\FastBitmap.cs",
+              "RelativeToolTip": "FastBitmap.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAUwK0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:50:12.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:29:12.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Polygon2D.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Polygon2D.cs",
+              "RelativeDocumentMoniker": "Polygon2D.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Polygon2D.cs",
+              "RelativeToolTip": "Polygon2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:27:18.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vector.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Vector.cs",
+              "RelativeDocumentMoniker": "Vector.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Vector.cs",
+              "RelativeToolTip": "Vector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:19:39.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:17:59.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\C\u002B\u002B labs\\QuickHull\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:10:06.948Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
